@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Texter", "Texter\Texter.csproj", "{FDFFFA59-FEDF-4716-93B9-C9C07E6735BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDFFFA59-FEDF-4716-93B9-C9C07E6735BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFFFA59-FEDF-4716-93B9-C9C07E6735BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFFFA59-FEDF-4716-93B9-C9C07E6735BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFFFA59-FEDF-4716-93B9-C9C07E6735BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53B15996-DF2F-41BF-AC38-07D7F3F40EB3}
+	EndGlobalSection
+EndGlobal
